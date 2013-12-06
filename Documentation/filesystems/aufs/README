@@ -1,8 +1,4 @@
-
-####
 This is a fork of Aufs to make it patch cleanly on RobertCNelsons ARM Kernel
-
-
 
 Aufs3 -- advanced multi layered unification filesystem version 3.x
 http://aufs.sf.net
