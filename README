@@ -2,6 +2,9 @@ AUFS module
 http://aufs.sf.net
 Junjiro. R. Okajima
 
+
+This VERSION patches cleanly for arm
+
 In this GIT repository, there are several GIT branches named "aufsX.Y".
 Here "X.Y" is the version number and it corresponds to the aufs version
 (aufs3 and later). Run git-checkout to get the source files of aufs
